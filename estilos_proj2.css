@@ -15,6 +15,7 @@
 .menu{
     position: absolute;
     right: 0;
+     z-index: 12222;
 }
 
 .portfolio {
@@ -84,7 +85,7 @@ color: dimgray;
 
 .coluna {
     flex: 1;
-    margin-top: 10%
+    margin-top: 10%;
         
 }
 
